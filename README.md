@@ -11,7 +11,7 @@
 
 I'm a passionate developer from Pakistan who loves building impactful software. My focus areas include:
 
-- 🧠 **Backend Development** — Python (Django, FastAPI), Node.js
+- 🧠 **Backend Development** — Python (Django, FastAPI), Node.js, Golang
 - 📱 **Mobile Apps** — Kotlin + Jetpack Compose
 - 🌐 **Full-stack Web Apps** — Django + Next.js
 - 🎯 Currently learning **Rust** and **AI integrations**
