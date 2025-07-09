@@ -27,3 +27,25 @@ I'm a passionate developer from Pakistan who loves building impactful software. 
 🛠 Tools & Frameworks: Django, FastAPI, Next.js, Tailwind CSS, Jetpack Compose
 🧪 Testing: Pytest, Postman, Vitest
 ☁️ Other: Git, Firebase, Docker, Supabase, SQLite, PostgreSQL, AWS
+
+```
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadusman&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusman&theme=github-dark-blue" width="48%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- Email: [usmanthedev@gmail.com](mailto:usmanthedev@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/m-usman13/](https://www.linkedin.com/in/m-usman13/)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
