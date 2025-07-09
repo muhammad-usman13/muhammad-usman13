@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Muhammad Usman 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/muhammadusman"><img src="https://img.shields.io/github/followers/muhammadusman?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:usmanthedev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/m-usman13/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
