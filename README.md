@@ -35,8 +35,8 @@ I'm a passionate developer from Pakistan who loves building impactful software. 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadusman&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusman&theme=github-dark-blue" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-usman13&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman13&theme=github-dark-blue" width="48%" />
 </p>
 
 ---
