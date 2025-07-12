@@ -47,5 +47,8 @@ I'm a passionate developer from Pakistan who loves building impactful software. 
 - LinkedIn: [https://www.linkedin.com/in/m-usman13/](https://www.linkedin.com/in/m-usman13/)
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
